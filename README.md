@@ -36,7 +36,9 @@ With osTicket open navigate to the Admin Panel by clicking "Admin Panel" located
 <br />
 <br />
 To start configuring Roles Navigate to the "Agents" tab and click on "Roles" underneath the "Agents" tab. Enter a role name:  <br/>
-<img >
+
+![image](https://github.com/user-attachments/assets/acb5c5e1-53fe-44ee-885f-ab6b1a4665e6)
+
 <br />
 <br />
 In the "Permissions" tab of this role, give this role all permissions in "Tickets", "Tasks", and "Knowledgebase". This will be our "Supreme Admin" Role:  <br/>
