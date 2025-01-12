@@ -73,7 +73,9 @@ To create agents (the help desk workers) navigate back to the "Agents" tab and s
 <br />
 <br />
 Next to the username click "Set Password" set the password. Uncheck the "Send the agent a password reset email" and "Require password change at next login" options:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/9bb89cf3-ceb1-4c99-82b9-0472a2fe016f)
+
 <br />
 <br />
 On the "Access" tab for this user select the "System Administrators" department and the "Supreme Admin" role created earlier:  <br/>
