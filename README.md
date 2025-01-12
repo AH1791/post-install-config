@@ -47,14 +47,16 @@ In the "Permissions" tab of this role, give this role all permissions in "Ticket
 
 <br />
 <br />
-To set up departments, while still in the "Agents" tab, click on "Departments" located just below the "Agents" tab. Name the department "System Administrators" and create the Department:  <br/>
+To set up departments, while still in the "Agents" tab, click on "Departments" located just below the "Agents" tab. Name the department "SysAdmins" and create the Department:  <br/>
 
 ![image](https://github.com/user-attachments/assets/2c9b16c5-dca4-432b-9294-0664d3f742fd)
 
 <br />
 <br />
-Next, create a team by selecting the "Teams" tab, while still in the "Agents" tab. Then, name the team "Level II Support" and create team:  <br/>
-<img 
+Next, create a team by selecting the "Teams" tab, while still in the "Agents" tab. Then, name the team "Online Banking" and create team:  <br/>
+
+ ![image](https://github.com/user-attachments/assets/d8756c17-fbd1-4d7d-a704-5299147d9944)
+
 <br />
 <br />
 Now, to allow anyone to create tickets, go to the "Settings" Tab, and under "Authentication Settings" make sure that "Require registration and login to create tickets" is unchecked:  <br/>
