@@ -60,7 +60,9 @@ Next, create a team by selecting the "Teams" tab, while still in the "Agents" ta
 <br />
 <br />
 Now, to allow anyone to create tickets, go to the "Settings" Tab, and under "Authentication Settings" make sure that "Require registration and login to create tickets" is unchecked:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/bc36de72-6e98-4f98-a5a4-5818c84d55e3)
+
 <br />
 <br />
 To create agents (the help desk workers) navigate back to the "Agents" tab and select "Agents" and fill out the name, email, and username:  <br/>
