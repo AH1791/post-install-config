@@ -78,11 +78,13 @@ Next to the username click "Set Password" set the password. Uncheck the "Send th
 
 <br />
 <br />
-On the "Access" tab for this user select the "System Administrators" department and the "Supreme Admin" role created earlier:  <br/>
-<img 
+On the "Access" tab for this user select the "SysAdmins" department and the "Supreme Admin" role created earlier:  <br/>
+
+![image](https://github.com/user-attachments/assets/e559a9fc-1c8e-4b18-b450-5cd85f9ba57b)
+
 <br />
 <br />
-Under the "Teams" tab select "Level II Support" for this agent:  <br/>
+Under the "Teams" tab select "Online Banking" for this agent:  <br/>
 <img 
 <br />
 <br />
