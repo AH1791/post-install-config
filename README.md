@@ -30,7 +30,9 @@ This project is a continuation of the  [osTicket: Prerequisites and Installation
 
 <p align="center">
 With osTicket open navigate to the Admin Panel by clicking "Admin Panel" located in orange at the top right of the page: <br/>
-<img >
+ 
+![image](https://github.com/user-attachments/assets/94a88cc5-0377-47fa-9efe-be76adf24b2a)
+
 <br />
 <br />
 To start configuring Roles Navigate to the "Agents" tab and click on "Roles" underneath the "Agents" tab. Enter a role name:  <br/>
