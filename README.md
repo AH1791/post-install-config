@@ -91,7 +91,9 @@ Under the "Teams" tab select "Online Banking" for this agent:  <br/>
 <br />
 <br />
 Create one more agent as done previously, the only difference is in the "Access" tab select "Support" for the department:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/dc0f2e52-8f69-49e1-9b84-e50fcec4f3eb)
+
 <br />
 <br />
 <img 
