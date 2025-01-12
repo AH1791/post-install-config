@@ -85,7 +85,9 @@ On the "Access" tab for this user select the "SysAdmins" department and the "Sup
 <br />
 <br />
 Under the "Teams" tab select "Online Banking" for this agent:  <br/>
-<img 
+
+ ![image](https://github.com/user-attachments/assets/f5d7bd7e-5bd6-4270-a567-139a84e25ef6)
+
 <br />
 <br />
 Create one more agent as done previously, the only difference is in the "Access" tab select "Support" for the department:  <br/>
