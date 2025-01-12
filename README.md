@@ -66,7 +66,10 @@ Now, to allow anyone to create tickets, go to the "Settings" Tab, and under "Aut
 <br />
 <br />
 To create agents (the help desk workers) navigate back to the "Agents" tab and select "Agents" and fill out the name, email, and username:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/424c3c20-eb73-4b25-8b30-584d4fd1de9e)
+
+
 <br />
 <br />
 Next to the username click "Set Password" set the password. Uncheck the "Send the agent a password reset email" and "Require password change at next login" options:  <br/>
