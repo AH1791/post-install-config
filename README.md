@@ -42,11 +42,15 @@ To start configuring Roles Navigate to the "Agents" tab and click on "Roles" und
 <br />
 <br />
 In the "Permissions" tab of this role, give this role all permissions in "Tickets", "Tasks", and "Knowledgebase". This will be our "Supreme Admin" Role:  <br/>
-<img >
+
+![image](https://github.com/user-attachments/assets/99a4a5a1-9c34-4427-9f08-9c307df9f1f2)
+
 <br />
 <br />
 To set up departments, while still in the "Agents" tab, click on "Departments" located just below the "Agents" tab. Name the department "System Administrators" and create the Department:  <br/>
-<img
+
+![image](https://github.com/user-attachments/assets/2c9b16c5-dca4-432b-9294-0664d3f742fd)
+
 <br />
 <br />
 Next, create a team by selecting the "Teams" tab, while still in the "Agents" tab. Then, name the team "Level II Support" and create team:  <br/>
