@@ -110,6 +110,9 @@ Next, to create a user (the customers) switch to the "Agent Panel" in orange in 
 Configuring an SLA plan navigate back to Admin Panel> Manage> SLA create three SLAs with different severities, grace periods, and schedules like so:  <br/>
 
 ![image](https://github.com/user-attachments/assets/b4687443-d5ad-489a-844c-efe4dab1ffc0)
+![image](https://github.com/user-attachments/assets/345d6463-ab35-4af1-ad21-f4de75c1fea1)
+![image](https://github.com/user-attachments/assets/1b82b7ef-c721-42a0-a16c-75ec2aed822c)
+
 
 <br />
 <br />
