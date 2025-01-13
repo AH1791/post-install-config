@@ -102,11 +102,15 @@ Create one more agent as done previously, the only difference is in the "Access"
 <br />
 <br />
 Next, to create a user (the customers) switch to the "Agent Panel" in orange in the top right> Users> Add User and put an email and name, then create. (I also made one more user with the same steps taken here):  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/8b7d6cd1-bc18-450a-8cd7-501c2e7603fa)
+
 <br />
 <br />
 Configuring an SLA plan navigate back to Admin Panel> Manage> SLA create three SLAs with different severities, grace periods, and schedules like so:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/b4687443-d5ad-489a-844c-efe4dab1ffc0)
+
 <br />
 <br />
 <img 
