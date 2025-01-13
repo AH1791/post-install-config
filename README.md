@@ -123,7 +123,11 @@ Configuring an SLA plan navigate back to Admin Panel> Manage> SLA create three S
 <br />
 <br />
 Under the same "Manage" tab go to the "Help Topics" tab and create four help topics named, "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset" all with the same settings like so:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/ab089f4d-ed01-46f9-96ca-bc5b6e5af704)
+![image](https://github.com/user-attachments/assets/5594d6a8-0a02-43f7-91ac-7a828614224a)
+
+
 <br />
 <br />
 
